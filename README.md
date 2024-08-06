@@ -1,3 +1,3 @@
 # Protect yourself
 
-* might not work btw <3
+* please read the script before you execute it!
